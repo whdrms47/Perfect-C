@@ -5,7 +5,7 @@
 int main(void)
 {
 	char a = '\0';
-	puts("¹®ÀÚ ÇÏ³ª ÀÔ·Â:");
+	puts("ë¬¸ì í•˜ë‚˜ ì…ë ¥:");
 	a = getchar();
 	putchar(a); putchar('\n');
 
